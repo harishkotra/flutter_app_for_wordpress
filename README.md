@@ -1,6 +1,6 @@
-# fests_info
+# Creating Flutter App for WordPress Website
 
-A new Flutter project.
+Creating a flutter app for a wordpress website, one feature at a time. 
 
 ## Getting Started
 
